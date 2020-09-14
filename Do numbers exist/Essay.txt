@@ -1,29 +1,21 @@
+---
 
-    “The book of nature is written in the language of mathematics” Galileo Galilei
-
-Numbers- they’re all around us but do they even exist?
-
-The great Greek philosopher Plato has been quoted as saying “The highest form of pure thought is in mathematics”. It would be no exaggeration to say that Mathematics played a momentous role in the development of human society. Applied mathematics is omnipresent in our surroundings.
-
+Do numbers exist?
+"The book of nature is written in the language of mathematics" Galileo Galilei
+Numbers- they're all around us but do they even exist?The great Greek philosopher Plato has been quoted as saying "The highest form of pure thought is in mathematics". It would be no exaggeration to say that Mathematics played a momentous role in the development of human society. Applied mathematics is omnipresent in our surroundings.
 The ubiquity of mathematics and its importance begs the question: Is mathematics an abstract construct of the human mind or the inherent language of the universe. This very question has been the center of debate for millennia.
-
 With some introspection, it can be fairly accurately stated that numbers do indeed exist in our collective consciousness. The divide arises when the question is phrased as the following: Does mathematics (or all mathematical entities for that purpose) exist in the natural world or are they just figments of thought and speech governed by logic that uniformly apply to the real world?
-
 The first answer seems extremely intuitive and great Greek philosophers would convince you that it is indeed the right one but the second answer surely has merit as well when you consider the constant human need for order within the chaos that is this world.
-
 Platonism dictates that all mathematical entities exist independent of thought, speech and human consciousness and that human consciousness can merely understand the inherent order of the universe i.e mathematics for just as physical objects exist in the physical world and they require no viewer to simply exist, numbers obey the same principle. For example a, leaf exists, it needs no viewer for it to exist. Similarly, Plato would argue mathematics simply exists. Leaf and the subject both require a conscious mind to verify their existence but it would be illogical to conclude that the leaf materialized because of the viewers consciousness. Similarly, Plato would argue that mathematics is not an abstract human construct but a subject that simply exists.
-
 However, contemporary mathematics philosophers have argued that mathematics does not exist universally but resides in human minds. The American philosopher Hartry H. Field described the subject of mathematics as a dispensable body of falsehoods not talking about anything real in his book Science Without Numbers. Field re-described mathematics as an useful fiction instead of a paramount and unvarying truth that predates the universe.
-
 Final Verdict: It depends on who you ask. Detractors of both broadly divided schools of thought alike resort to calling the other ridiculous and unintuitive when debating. The origin of mathematics is still cause of much debate and as with most things in philosophy, will probably never be resolved.
-Author’s B̶i̶a̶s̶ Opinion:
 
+
+---
+
+Author's B̶i̶a̶s̶ Opinion:
 The author leans towards Platonism and the belief that mathematics predates the universe. This essay aims to serve dual purposes. Firstly, it gives a fairly simple and unbiased view on a important question in the philosophy of mathematics and secondly, it hopes to pique the curiosity of the reader to explore the often overlooked world of philosophy in mathematics.
-
 Notes: The author attempts to answer the question by dividing the opinions in two extremely broad schools of thought and therefore the material may be inaccurate due to generalization and simplification of the topics.
-
 The authors uses the following words interchangeably for the purposes of this essay: Mathematical entities, Mathematics, Numbers, Natural numbers
-
 For any corrections, please contact the author.
-
-Amaan Raazi
+Raw text and citations
