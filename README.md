@@ -1,2 +1,2 @@
 # Essays
-Text + Citations for essays
+Raw text + Citations for essays
