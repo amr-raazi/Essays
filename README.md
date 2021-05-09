@@ -1,2 +1,2 @@
-# Essays
-Raw text + Citations for essays
+# Stuff I wrote
+Raw text + Citations for stuff I write, mostly essays
